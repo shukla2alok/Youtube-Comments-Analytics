@@ -1,0 +1,10 @@
+streamlit
+google-api-python-client
+pandas
+numpy
+nltk
+wordcloud
+matplotlib
+seaborn
+scikit-learn
+textblob
